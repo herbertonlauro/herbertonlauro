@@ -1,4 +1,7 @@
-## Oiii eu sou Herberton Lauro, criador de conteúdo de programação e tecnologia!
+## Oiii eu sou Herberton Lauro, Iniciei minha carreira com desenvolvimento web em 2010, com HTML, PHP, CSS, trabalhei por 3 anos com desenvolvimento web freelancer com PHP de 2010 a 2014 criando sites, portais, lojas virtuais e blogs.
+
+Atualmente estudando analise e desenvolvimento de sistema na UNIFCV, com previsão de finalizar em julho de 2023, tenho conhecimento em HTML, CSS, MYSQL, JAVA, PHP, tenho projetos no GitHub com java EE, HTML, estou em constante aprendizado, participo de diversos cursos, BOOTCAMP na DIO, cursos de java, Spring boot, microservicos e angular na UDEMY.
+
 <div align="center">
   <a href="https://github.com/herbertonlauro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=herbertonlauro&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
