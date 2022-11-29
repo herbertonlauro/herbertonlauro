@@ -1,7 +1,9 @@
 ## Oiii eu sou Herberton Lauro,apaixonado por programação e tecnologia.
-Iniciei minha carreira com desenvolvimento web em 2010, com HTML, PHP, CSS, trabalhei por 3 anos com desenvolvimento web freelancer com PHP de 2010 a 2014 criando sites, portais, lojas virtuais e blogs.
+Iniciei minha carreira com tecnologia da informação em 2010, trabalhei com desenvolvimento web freelancer com php de 2010 a 2014, trabalhei com engenharia clinica por 7 anos na DASA, atualmente estou estudando analise e desenvolvimento de sistema na unifcv com previsão de finalizar em dezembro de 2023.
 
-Atualmente estudando analise e desenvolvimento de sistema na UNIFCV, com previsão de finalizar em julho de 2023, tenho conhecimento em HTML, CSS, MYSQL, JAVA, PHP, tenho projetos no GitHub com java EE, HTML, estou em constante aprendizado, participo de diversos cursos, BOOTCAMP na DIO, cursos de java, Spring boot, microservicos e angular na UDEMY.
+Tenho projetos com java web, rest api, spring boot, html, css, estou em constante aprendizado, participo de diversos cursos complementares em java, spring boot, microservicos, aws, docker e angular na udemy Brasil.
+
+Tenho conhecimento em HTML, CSS, MYSQL, JAVA, PHP, tenho projetos com java EE, HTML, estou em constante aprendizado, participo de diversos cursos, BOOTCAMP na DIO, cursos de java, Spring boot, microservicos e angular na UDEMY.
 
 <div align="center">
   <a href="https://github.com/herbertonlauro">
