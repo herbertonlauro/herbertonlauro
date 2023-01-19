@@ -1,5 +1,5 @@
 ## Oiii eu sou Herberton Lauro,apaixonado por programação e tecnologia.
-Iniciei minha carreira com tecnologia da informação em 2010, trabalhei com desenvolvimento web freelancer com php de 2010 a 2014, trabalhei com engenharia clinica por 7 anos na DASA, atualmente estou estudando analise e desenvolvimento de sistema na unifcv com previsão de finalizar em dezembro de 2023.
+Iniciei minha carreira com tecnologia da informação em 2010, trabalhei com desenvolvimento web freelancer com php de 2010 a 2014,atualmente estou estudando analise e desenvolvimento de sistema na unifcv com previsão de finalizar em dezembro de 2023.
 
 Tenho projetos com java web, rest api, spring boot, html, css, estou em constante aprendizado, participo de diversos cursos complementares em java, spring boot, microservicos, aws, docker e angular na udemy Brasil.
 
