@@ -1,9 +1,13 @@
-## Oiii eu sou Herberton Lauro,apaixonado por programação e tecnologia.
-Iniciei minha carreira com tecnologia da informação em 2010, trabalhei com desenvolvimento web freelancer com php de 2010 a 2014,atualmente estou estudando analise e desenvolvimento de sistema na unifcv com previsão de finalizar em dezembro de 2023.
+## < hello word /> sou Herberton Lauro, apaixonado por programação e tecnologia, Back-end júnior com habilidades em Java, Spring Boot, bancos de dados relacionais, RESTful com Spring.
+Procuro sempre me manter atualizado nas últimas tendências em tecnologia e aprimorar minhas habilidades, além de estar disposto a aprender novas ferramentas e linguagens de programação para expandir meu conhecimento.
 
-Tenho projetos com java web, rest api, spring boot, html, css, estou em constante aprendizado, participo de diversos cursos complementares em java, spring boot, microservicos, aws, docker e angular na udemy Brasil.
+Estou aberto a novas oportunidades que me permitam aprimorar minhas habilidades e crescer profissionalmente. Se você está procurando um programador Back-end comprometido e empenhado em agregar valor ao seu projeto, estou à disposição para uma conversa.
 
-Tenho conhecimento em HTML, CSS, MYSQL, JAVA, PHP, tenho projetos com java EE, HTML, estou em constante aprendizado, participo de diversos cursos, BOOTCAMP na DIO, cursos de java, Spring boot, microservicos e angular na UDEMY.
+Linguagens de programação: Java
+Implementação de serviços com Spring Framework.
+Integração com bancos de dados MySQL e PostgreSQL.
+Sistemas operacionais: Windows, Linux.
+Ferramentas: Eclipse, IntelliJ , Git, Maven, JUnit, Postman.
 
 <div align="center">
   <a href="https://github.com/herbertonlauro">
@@ -14,9 +18,10 @@ Tenho conhecimento em HTML, CSS, MYSQL, JAVA, PHP, tenho projetos com java EE, H
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Herberton-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Herberton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+   <img align="center" alt="Herberton-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+   <img align="center" alt="Herberton-Angular" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg">
   <img align="center" alt="Ton-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Herberton-Kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+   <img align="center" alt="Herberton-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Herberton-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Herberton-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
  
