@@ -3,10 +3,10 @@ Procuro sempre me manter atualizado nas últimas tendências em tecnologia e apr
 
 Estou aberto a novas oportunidades que me permitam aprimorar minhas habilidades e crescer profissionalmente. Se você está procurando um programador Back-end comprometido e empenhado em agregar valor ao seu projeto, estou à disposição para uma conversa.
 
-Linguagens de programação: Java
-Implementação de serviços com Spring Framework.
-Integração com bancos de dados MySQL e PostgreSQL.
-Sistemas operacionais: Windows, Linux.
+Linguagens de programação: Java</br>
+Implementação de serviços com Spring Framework.</br>
+Integração com bancos de dados MySQL e PostgreSQL.</br>
+Sistemas operacionais: Windows, Linux.</br>
 Ferramentas: Eclipse, IntelliJ , Git, Maven, JUnit, Postman.
 
 <div align="center">
