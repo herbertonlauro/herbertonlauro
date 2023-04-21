@@ -1,4 +1,4 @@
-## < hello word /> sou Herberton Lauro, apaixonado por programação e tecnologia, Back-end júnior com habilidades em Java, Spring Boot, bancos de dados relacionais, RESTful com Spring.
+## < hello world /> sou Herberton Lauro, apaixonado por programação e tecnologia, Back-end júnior com habilidades em Java, Spring Boot, bancos de dados relacionais, RESTful com Spring.
 
 Procuro sempre me manter atualizado nas últimas tendências em tecnologia e aprimorar minhas habilidades, além de estar disposto a aprender novas ferramentas e linguagens de programação para expandir meu conhecimento.
 
