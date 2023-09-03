@@ -1,8 +1,6 @@
-## < hello world /> sou Herberton Lauro, apaixonado por programação e tecnologia, Back-end júnior com habilidades em Java, Spring Boot, bancos de dados relacionais, RESTful com Spring.
+## < hello world /> Desenvolvedor Backend, especializado na stack Java.
 
-Procuro sempre me manter atualizado nas últimas tendências em tecnologia e aprimorar minhas habilidades, além de estar disposto a aprender novas ferramentas e linguagens de programação para expandir meu conhecimento.
-
-Estou aberto a novas oportunidades que me permitam aprimorar minhas habilidades e crescer profissionalmente. Se você está procurando um programador Back-end comprometido e empenhado em agregar valor ao seu projeto, estou à disposição para uma conversa.
+Encaro a vida de forma positiva, entendo bem as orientações e estou sempre aberta a aprender coisas novas. 
 
 Linguagens de programação: Java</br>
 Implementação de serviços com Spring Framework.</br>
