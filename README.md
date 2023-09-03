@@ -1,6 +1,6 @@
 ## < hello world /> Desenvolvedor Backend, especializado na stack Java.
 
-Encaro a vida de forma positiva, entendo bem as orientações e estou sempre aberta a aprender coisas novas. 
+Encaro a vida de forma positiva, entendo bem as orientações e estou sempre pronto para aprender coisas novas. 
 
 Linguagens de programação: Java</br>
 Implementação de serviços com Spring Framework.</br>
