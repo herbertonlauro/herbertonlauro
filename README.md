@@ -1,4 +1,4 @@
-## < hello world /> Desenvolvedor Backend, especializado na stack Java.
+## < hello world /> Desenvolvedor Backend | Java Quarkus | Spring.
 
 Encaro a vida de forma positiva, entendo bem as orientações e estou sempre pronto para aprender coisas novas. 
 
